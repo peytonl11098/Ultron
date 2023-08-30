@@ -13,4 +13,5 @@ Hi! My name is Peyton and I am a 16 year old junior. Some activities I enjoy are
 
 ## Freeform Image
 My picture includes a man pole vaulting, my primary sport in high school, a PlayStation controller (my first gaming console), and the Spotify logo because I spend much of my time listening to music.
+
 <img src = "images/freeform.png" Width = "700" Height= "500">
