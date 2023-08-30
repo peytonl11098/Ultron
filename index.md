@@ -4,12 +4,13 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Peyton Leigh's Home Page
+Welcome to my page.
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## About Me
+Hi! My name is Peyton and I am a 16 year old junior. Some activities I enjoy are going to the beach, pole vaulting, listening to music, and spending time with my friends and family. I enrolled in the Computer Science Principles course to expand my knowledge on the subject and explore new oppotunities.
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+
+## Freeform Image
+My picture includes a man pole vaulting, my primary sport in high school, a PlayStation controller (my first gaming console), and the Spotify logo because I spend much of my time listening to music.
+<img src = "images/freeform.png" Width = "700" Height= "500">
