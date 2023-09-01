@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Game of Life
-description: Grab of the Game of Life from APCSA repo.
+description: Peyton's Game of Life
 type: hacks
 courses: { compsci: {week: 2} }
 ---
