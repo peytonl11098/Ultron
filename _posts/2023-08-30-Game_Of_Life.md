@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Game of Life
-description: Peyton's Game of Life
+description: Peyton's Game of Life. This game uses random cell setting, interval timing, and key events.
 type: hacks
 courses: { compsci: {week: 2} }
 ---
