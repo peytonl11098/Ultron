@@ -4,11 +4,9 @@ comments: false
 layout: post
 title: Week 2 Plan
 description: Peyton's Week 2 Plan
-courses: { compsci: {week: 2} }
 type: plans
+courses: { compsci: {week: 2} }
 ---
-
-# Week 2: Plan for Week 2
 
 ## Calculator hacks
 - Hack 0: Right justify result
