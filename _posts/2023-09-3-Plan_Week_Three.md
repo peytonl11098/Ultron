@@ -14,18 +14,12 @@ courses: { compsci: {week: 2} }
 - Hack 2: Add the common math operation that is missing from the calculator
 - Hack 3: Implement 1 number operation (i.e. SQRT)
 
-
-
-
 ## Python Tricks:
 - Formatting messages with emojis
 - Exploring data with newspaper and wiki libraries
 - Finding code on how the library was made
 - Learning about data types
 ## Project Based Learning is the concept of combining concepts to form projects.
-
-
-
 
 ## JS Output with jquery:
 - Analyze:
@@ -34,13 +28,6 @@ courses: { compsci: {week: 2} }
 - Styling HtML table
 - Difference between HTML and JS
 - Benefit of a table using JS
-
-
-
-
-
-
-
 
 <table class="table">
     <thead>
