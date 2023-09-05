@@ -11,7 +11,7 @@ type: plans
 # Week 2: Plan for Week 2
 
 ## Calculator hacks
-- Hack 0: Right justify resul
+- Hack 0: Right justify result
 - Hack 1: Test conditions on small, big, and decimal numbers, report on findings. Fix issues.
 - Hack 2: Add the common math operation that is missing from the calculator
 - Hack 3: Implement 1 number operation (i.e. SQRT)
