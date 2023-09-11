@@ -9,8 +9,8 @@ courses: { compsci: {week: 1} }
 ---
 ### Pair Showcase
 - Finished Premier League ranking table involving html and javascript, making it interactive (able to change pages and search in key terms).
-- We added a Python Quiz
-
+- We added a Python Quiz (not functionable currently)
+- Added List of Common Linux Commands
 
 ### Summary of Accomplishments
 > Update Blog to contain all hacks.  
