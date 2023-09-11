@@ -7,6 +7,10 @@ description: My Review for the First Week of CSP. This week was full of differen
 type: tangibles
 courses: { compsci: {week: 1} }
 ---
+### Pair Showcase
+- Finished Premier League ranking table involving html and javascript, making it interactive (able to change pages and search in key terms).
+- We added a Python Quiz
+
 
 ### Summary of Accomplishments
 > Update Blog to contain all hacks.  
