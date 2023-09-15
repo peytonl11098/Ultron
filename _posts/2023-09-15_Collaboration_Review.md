@@ -8,7 +8,6 @@ type: plans
 courses: { compsci: {week: 3} }
 ---
 
-## It is a common belief in industry that collaboration is one of the key skills of a Software Engineer. Simple activities like think-pair-share, agile methodolgoy, and making and reviewing plans are consider fundamental in speeding up the development life cycle. An Agile mindset and checking in with other often is fundamental. Remember, “collaboration” is the 1st topic in AP Classroom, first usually means important.
 - What are the benefits of a team? Explain some of the diveristies that your team has to offer.
 - Describe how you will facilitate communication amongst group members.
 - How will you hold each person accountable for their portion of the work? Think about dates, review tickets, and peer revies.
