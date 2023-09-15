@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: hacks
 title: Collaboration Review
-description: Our plan for 
+description: Our description of the benefits of our team, including the skills we have and goals we hope to accomplish
 type: tangibles
 courses: { compsci: {week: 3} }
 ---
