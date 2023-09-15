@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: hacks
 title: Collaboration Review
-description: EPL 2022-2023
+description: Our plan for 
 type: tangibles
 courses: { compsci: {week: 3} }
 ---
