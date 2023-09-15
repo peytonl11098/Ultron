@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Daily Plan 
-description: Blog!!!  This shows planning and notes from hacks.
+description: Blog!!! This shows planning and notes from hacks.
 type: plans
 courses: { compsci: {week: 0} }
 ---
