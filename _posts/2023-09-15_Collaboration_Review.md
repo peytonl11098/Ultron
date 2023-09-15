@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: hacks
+layout: post
 title: Collaboration Review
 description: Our description of the benefits of our team, including the skills we have and goals we hope to accomplish
 type: tangibles
