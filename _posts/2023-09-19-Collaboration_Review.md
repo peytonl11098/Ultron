@@ -8,25 +8,14 @@ type: plans
 courses: { compsci: {week: 3} }
 ---
 
-- What are the benefits of a team? Explain some of the diveristies that your team has to offer.
-- Describe how you will facilitate communication amongst group members.
-- How will you hold each person accountable for their portion of the work? Think about dates, review tickets, and peer revies.
+### What are the benefits of a team? Explain some of the diveristies that your team has to offer.
 
-### Pair Showcase
-- Finished Premier League ranking table involving html and javascript, making it interactive (able to change pages and search in key terms).
-- We added a Python Quiz (not functionable currently)
-- Added List of Common Linux Commands
+- The benefits of a team include the ability to compartmentalize, increasing our efficiency by designating roles to members who may be more proficient at certain skills than others, while also being able to complete multiple tasks simultaneously. Some of the diversities our team has to offer are knowledge of multiple languages and diverse computer science backgrounds.
 
-### Summary of Accomplishments
-> Update Blog to contain all hacks.  
-- Reviewed with Pair.  Discuss/Show evidence.
-- Discuss laptop, cloud computer.
-- Discuss tools setup and troubles.
-- Show personal blog / home page.
-- Show how you are maintaining notes, answering hacks, and showing tangibles.  
-- How have you learned Markdown, HTML, CSS, JavaScript.
-- Show Jupyter Notebooks and how you have added and organized them in the blog.
-- Show evidence of using Slack Account, show app installed on Laptop and/or phone.  Show awared of #annoncements, #general, #coding.
-- Run make commands to build and test blog locally, before pushing changes to GitHub pages.
-- Discuss GitHub Account, show ability to push/pull changes from VSCode.
-- Discuss development on Themes, show how you plan to organized lab notebook.
+### Describe how you will facilitate communication amongst group members.
+
+- We will facilitate communication through Discord, Slack, and regular meetups in person to discuss our roles and monitor our progress.
+
+### How will you hold each person accountable for their portion of the work? Think about dates, review tickets, and peer reviews.
+
+- We will assign certain dates of which select portions of our work shall be done. We will have daily check-ins with our team to review our work, making sure that each person has contributed to their part.
