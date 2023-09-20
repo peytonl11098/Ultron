@@ -12,6 +12,8 @@ courses: { compsci: {week: 5} }
 
 - The benefits of a team include the ability to compartmentalize, increasing our efficiency by designating roles to members who may be more proficient at certain skills than others, while also being able to complete multiple tasks simultaneously. Some of the diversities our team has to offer are knowledge of multiple languages and diverse computer science backgrounds.
 
+<img src = "images/freeform.png" Width = "700" Height= "500">
+
 ### Describe how you will facilitate communication amongst group members.
 
 - We will facilitate communication through Discord, Slack, and regular meetups in person to discuss our roles and monitor our progress.
