@@ -8,7 +8,7 @@ type: tangibles
 courses: { compsci: {week: 5} }
 ---
 
-### What are the benefits of a team? Explain some of the diveristies that your team has to offer.
+### What are the benefits of a team? Explain some of the diversities that your team has to offer.
 
 - The benefits of a team include communication, compromise, and the ability to compartmentalize, increasing our efficiency by designating roles to members who may be more proficient at certain skills than others, while also being able to complete multiple tasks simultaneously. Some of the diversities our team has to offer are knowledge of multiple languages and diverse computer science backgrounds.
 
