@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: hacks
 title: Common Linux Commands
-description: EPL 2022-2023
+description: Linux Commands 
 type: hacks
 courses: { compsci: {week: 3} }
 ---
