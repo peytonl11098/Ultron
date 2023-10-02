@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: Review Ticket for Web Programming Basics
-description: My Review for the 
+description: My Review + Peer Grade
 type: tangibles
 courses: { compsci: {week: 5} }
 ---
