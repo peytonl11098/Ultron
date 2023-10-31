@@ -15,5 +15,6 @@ I will prep for the College Board Quiz by:
 - Watching College Board videos on CSP topics
 
 # Notes and Corrections
+- During the Quiz, I will use my external resources to research any questions I may not be familiar with
 Questions missed:
-Questions I used help on:
+Questions I used help on: 2, 7, 14, 15, 16, 18
