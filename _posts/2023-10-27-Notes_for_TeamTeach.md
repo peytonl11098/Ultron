@@ -2,16 +2,18 @@
 toc: true
 comments: false
 layout: post
-title: Python Notes
-description: Homework for the in-class assignment #8
+title: College Board Quiz Notes
+description: Prep and Notes for the Upcomiing College Board Quiz CSP
 type: plans
-courses: { compsci: {week: 10} }
+courses: { compsci: {week: 11} }
 ---
 
-# Simulations and Algorithms Efficiency
-heuristic would be useful in solving the creating the master scheudule for a high school
+# Prep
+I will prep for the College Board Quiz by:
+- Reviewing previous homeworks
+- Reviewing previous lessons and popcorn hacks
+- Watching College Board videos on CSP topics
 
-# HW
-1. 
-2. 
-3. 
+# Notes and Corrections
+Questions missed:
+Questions I used help on:
