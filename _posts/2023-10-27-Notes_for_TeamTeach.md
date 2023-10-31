@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: College Board Quiz Notes
 description: Prep and Notes for the Upcomiing College Board Quiz CSP
-type: plans
+type: tangibles
 courses: { compsci: {week: 11} }
 ---
 
