@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Trimester 1 Review
 description: 
-type: plans
+type: tangibles
 courses: { compsci: {week: 11} }
 ---
 
