@@ -17,4 +17,10 @@ I will prep for the College Board Quiz by:
 # Notes and Corrections
 - During the Quiz, I will use my external resources to research any questions I may not be familiar with
 Questions missed:
-Questions I used help on: 2, 7, 14, 15, 16, 18
+- Questions I used help on: 2, 7, 14, 15, 16, 18
+
+
+# Reflection:
+- I need to review pseudocode more because it will be prevalent on the AP exam
+- Work on time management because I was not very fast on each question
+- Repetition (take more tests)
