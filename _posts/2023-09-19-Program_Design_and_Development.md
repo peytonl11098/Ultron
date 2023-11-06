@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Program Design and Development
 description: Team Test Section 3
-type: tangibles
+type: hacks
 courses: { compsci: {week: 5} }
 ---
 

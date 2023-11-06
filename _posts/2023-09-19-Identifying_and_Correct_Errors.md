@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Identifying and Correct Errors
 description: Team Test Section 4
-type: tangibles
+type: hacks
 courses: { compsci: {week: 5} }
 ---
 
