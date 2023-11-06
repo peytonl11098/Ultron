@@ -16,3 +16,5 @@ I have good memories from the beginning of the trimester when everything seemed 
 
 # Reflective Summary
 I have learned an extensive knowledge on coding frontend and a narrow understanding on backend. My team and I were able to use html, javascript, and Python in order to code our passion project, and my partner projects.
+
+I have also increased my understanding on the formatting of group projects in CSP, such as the use of scrum boards to utilize scrum masters and compartmentalization of roles to maximize efficiency. I hope that in the next trimester, I will be able to code the backend for my projects.
