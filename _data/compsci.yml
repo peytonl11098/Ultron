@@ -10,7 +10,17 @@ Unit2:
   start: 4
   end: 7
 Unit3:
-  title: Web Applicatoin, Data, and N@tM
+  title: Web Application, Data, and N@tM
   description: Learning Web Applications and using APIs to create a N@tM project
   start: 8
   end: 11
+Unit4:
+  title: Warm-up Data Abstraction Project, Create Performance Task (CPT) kickoff
+  description: Begin Mini-project, use SASS, JavaScript. Tech talks will prepare for College Board Create Performance Task.
+  start: 13
+  end: 14
+Unit5:
+  title: CPT design and development, Computer Systems, Networks, Impact of Computing
+  description: Continue CPT project design and development. Focus on College Board Units 4 and 5. 
+  start: 15
+  end: 21
