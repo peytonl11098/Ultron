@@ -21,7 +21,6 @@ type: hacks
         <tr class="header" id="table">
             <th>Plus</th>
             <th>Binary</th>
-            <th>Octal</th>
             <th>Hexadecimal</th>
             <th>Decimal</th>
             <th>Minus</th>
@@ -31,7 +30,6 @@ type: hacks
         <tr>
             <td><div class="button" id="add1" onclick="add(1)">+1</div></td>
             <td id="binary">00000000</td>
-            <td id="octal">0</td>
             <td id="hexadecimal">0</td>
             <td id="decimal">0</td>
             <td><div class="button" id="sub1" onclick="add(-1)">-1</div></td>
@@ -51,7 +49,7 @@ Liquid for loop includes last number, thus the Minus
             Build many bits
             {% endcomment %}
             {% for i in (0..bits) %}
-            <th><img id="bulb{{ i }}" src="{{site.baseurl}}/images/bulb_off.png" alt="" width="40" height="Auto">
+            <th><img id="bulb{{ i }}" src="{{site.baseurl}}/images/light-bulb-off.jpeg" alt="" width="40" height="Auto">
                 <div class="button" id="butt{{ i }}" onclick="javascript:toggleBit({{ i }})">Turn on</div>
             </th>
             {% endfor %}
@@ -75,7 +73,7 @@ Liquid for loop includes last number, thus the Minus
     const MSG_ON = "Turn on";
     const IMAGE_ON = "{{site.baseurl}}/images/lightbulb_on.png";
     const MSG_OFF = "Turn off";
-    const IMAGE_OFF = "{{site.baseurl}}/images/bulb_off.png"
+    const IMAGE_OFF = "{{site.baseurl}}/images/light-bulb-off.jpeg"
 
     // return string with current value of each bit
     function getBits() {
@@ -88,8 +86,6 @@ Liquid for loop includes last number, thus the Minus
     // setter for Document Object Model (DOM) values
     function setConversions(binary) {
         document.getElementById('binary').innerHTML = binary;
-        // Octal conversion
-        document.getElementById('octal').innerHTML = parseInt(binary, 2).toString(8);
         // Hexadecimal conversion
         document.getElementById('hexadecimal').innerHTML = parseInt(binary, 2).toString(16);
         // Decimal conversion
