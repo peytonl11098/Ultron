@@ -1,8 +1,8 @@
 ---
 toc: true
 title: Binary Lightbulb demonstration
-layout: post
-description: A Binary Math illustrative application using HTML, Liquid, and JavaScript.
+layout: default
+description: A Binary Math application of lightbulbs that will be used for my binary conversion game
 courses: { compsci: {week: 13} }
 type: hacks
 ---
