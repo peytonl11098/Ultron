@@ -1,6 +1,6 @@
 ---
 toc: true
-title: 2.1 Binary
+title: Binary Lightbulb demonstration
 layout: post
 description: A Binary Math illustrative application using HTML, Liquid, and JavaScript.
 courses: { compsci: {week: 13} }
