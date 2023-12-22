@@ -1,9 +1,9 @@
 ---
 toc: true
-layout: default
 title: Blog for MCQ Quiz
+layout: post
 description: Journey, Corrections, Learnings, and Discovery
-courses: { compsci: {week: 12} }
+courses: { compsci: {week: 17} }
 type: tangibles
 ---
 
