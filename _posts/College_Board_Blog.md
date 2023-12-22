@@ -1,7 +1,8 @@
 ---
 toc: true
-title: Blog for MCQ Quiz
+comments: false
 layout: post
+title: Blog for MCQ Quiz
 description: Journey, Corrections, Learnings, and Discovery
 type: tangibles
 courses: { compsci: {week: 17} }
