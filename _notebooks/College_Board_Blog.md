@@ -8,32 +8,32 @@ type: tangibles
 ---
 
 ## Journey
-* Last trimester, I scored 60/66 on the 2018 Practice MCQ so I’m content with the score I received
-* The team teaches in class were a great help to me duirng the answering of these questions. Questions, such as 38, which asked about the benfits of IPv6 over IPv4 would have been a foreign concept if not for the team teach lesson on "The Internet"
-* The "Routing and Computing" lesson helped me with problems, such as 43, in which I needed to determine redundant routing and answer with the optimal configuration between two devices
-* The "Legal and Ethical Concerns" lesson helped me with questions such as 48, which referenced phishing attacks and an example of it in everyday life
-* My knowledge on binary that I gained throughout the binary project helped me on questions like 49, in which I had to determine the amount of unique numbers that could be provided given a certain amount of bits for a real life application, such as work enviroments.
-* I would like to increase my knowledge on Creative Commons and what they provide for Internet users
+- Last trimester, I scored 60/66 on the 2018 Practice MCQ so I’m content with the score I received
+- The team teaches in class were a great help to me duirng the answering of these questions. Questions, such as 38, which asked about the benfits of IPv6 over IPv4 would have been a foreign concept if not for the team teach lesson on "The Internet"
+- The "Routing and Computing" lesson helped me with problems, such as 43, in which I needed to determine redundant routing and answer with the optimal configuration between two devices
+- The "Legal and Ethical Concerns" lesson helped me with questions such as 48, which referenced phishing attacks and an example of it in everyday life
+- My knowledge on binary that I gained throughout the binary project helped me on questions like 49, in which I had to determine the amount of unique numbers that could be provided given a certain amount of bits for a real life application, such as work enviroments.
+- I would like to increase my knowledge on Creative Commons and what they provide for Internet users
 
 ## Corrections
-* 5 - I need to work on my knowledge of logic gates (and + or) and work on the knowing the outputs of different inputs.
+- 5 - I need to work on my knowledge of logic gates (and + or) and work on the knowing the outputs of different inputs.
 
 Correction: A = false, B = true, C = true, D = true
 
-* 14 - Print digits algorithm
+- 14 - Print digits algorithm
 
 Correction: Step 3: Display the remainder of number divided by 10 and store the integer quotient in number.
 
-* 41 - Research strings, boolean, etc. and their functions. Practice more multiple-multiple choice questions (I, II, or III).
+- 41 - Research strings, boolean, etc. and their functions. Practice more multiple-multiple choice questions (I, II, or III).
 TrimLeft and TrimRight
 
 Correction: I and III
 
-* 56 - Compare execution times of two versions
+- 56 - Compare execution times of two versions
 
 Correction: Version II requires approximately 1 more minute to execute than version I.
 
-* 65 - Code segmant stores the substring "lope" in animal. It then concatenates "a" and "lope", stores result "alope" in animal. Concatenates the substring "jack" and "alope", stores result "jackalope" in animal.
+- 65 - Code segmant stores the substring "lope" in animal. It then concatenates "a" and "lope", stores result "alope" in animal. Concatenates the substring "jack" and "alope", stores result "jackalope" in animal.
 Calls to concat and substring
 
 Correction: B and C
