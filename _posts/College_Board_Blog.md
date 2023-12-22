@@ -3,8 +3,8 @@ toc: true
 title: Blog for MCQ Quiz
 layout: post
 description: Journey, Corrections, Learnings, and Discovery
-courses: { compsci: {week: 17} }
 type: tangibles
+courses: { compsci: {week: 17} }
 ---
 
 ## Journey
