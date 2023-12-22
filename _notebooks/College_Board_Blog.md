@@ -4,7 +4,7 @@ layout: default
 title: Blog for MCQ Quiz
 description: Journey, Corrections, Learnings, and Discovery
 courses: { compsci: {week: 16} }
-type: hacks
+type: tangibles
 ---
 
 ## Journey
