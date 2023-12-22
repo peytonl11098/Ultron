@@ -39,7 +39,6 @@ Calls to concat and substring
 Correction: B and C
 
 ## Discovery
-
 My worst skill was 4.B, which was "Evaluate and test algorithms and programs": Determine the result of code segments. To improve, I will take more practice MCQs that include code segments that I will need to determine the results or I need to insert a certain line in order to fix the code.
 
 I also missed questions from 2.B "Develop and implement algorithms", 3.B "Develop programs that incorporate abstractions", and 1.D "Design and evaluate computational solutions for a purpose". I believe that I will increase my knowledge by looking through previous team teaches, consulting ChatGPT, and taking more College Board quizzes.
