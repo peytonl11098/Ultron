@@ -3,7 +3,7 @@ toc: true
 layout: default
 title: Blog for MCQ Quiz
 description: Journey, Corrections, Learnings, and Discovery
-courses: { compsci: {week: 16} }
+courses: { compsci: {week: 12} }
 type: tangibles
 ---
 
